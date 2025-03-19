@@ -1,0 +1,85 @@
+body{
+    padding-bottom: 100px;
+    background-color: rgb(197, 197, 190);
+}
+.container{
+    background-color: antiquewhite;
+    border-radius: 30px;
+    font-family: Calibri;
+    font-size: 20px;
+    margin: 100px;
+    padding: 50px;
+}
+
+.head{
+    text-align: center;
+    margin: 50px;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    height: 200px;
+}
+
+.title{
+    font-family: cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.title-paragraph{
+    font-style: italic;
+}
+
+.img-title{
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+}
+
+.sobre{
+    font-family: cursive;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.citacion{
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 300px;
+    margin-left: 420px;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.curiosidades{
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+.curiosities{
+    border-top: 1px dashed #000;
+    border-bottom: 1px dashed #000;
+    margin: 50px;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.image-end{
+    text-align: center;
+    font-style: italic;
+    margin: 50px;
+}
+
+.info{
+    font-family: cursive;
+    text-transform: uppercase;
+}
+
+.consideracion{
+    font-family: cursive;
+}
